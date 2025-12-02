@@ -1,2 +1,1 @@
-# riddheshrepo
-this is a demo repository
+this is a redme filr
